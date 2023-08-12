@@ -4,7 +4,7 @@ import random as rand
 import numpy as np
 import matplotlib.pyplot as plt
 
-n_events = 10000001
+n_events = 10000002
 R = 1
 n_events_array = np.linspace(1, n_events, n_events)
 x_array = []
