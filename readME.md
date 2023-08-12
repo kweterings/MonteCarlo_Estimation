@@ -1,9 +1,6 @@
 # Estimating π using Monte Carlo Methods
 ###### Created by Kai Weterings, 12/08/2023
 
-After spending time as an intern at CERN benchmarking a Monte Carlo code for collision radiation matter simulations,
-I wanted to better understand the core happening inside a Monte Carlo code. Although this is the most basic form, it
-gives an understanding of the random sampling method which can be used for many various applications.
 
 The following repository contain a code which produces an estimate of π using Monte Carlo methods.  
 Monte Carlo methods is a type of 'computational algorithm that uses repeated random sampling to obtain the likelihood 
