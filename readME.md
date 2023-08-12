@@ -1,9 +1,20 @@
 # Estimating π using Monte Carlo Methods
 ###### Created by Kai Weterings, 12/08/2023
 
+
+
 The following repository contain a code which produces an estimate of π using Monte Carlo methods.  
 Monte Carlo methods is a type of 'computational algorithm that uses repeated random sampling to obtain the likelihood 
-a range of results of occurring'[^1].
+a range of results of occurring'[^1]. Monte Carlo although basic in this project, can become very important to assessing
+risk in many real-life scenarios. Very useful to getting a most accurate estimate possible when faced with
+many random variables and unknown outcomes. 
+
+As an introduction, please view the Monte Carlo code which estimates pi and produces a graph of the progression of the 
+estimate after each iteration. The code begins with 10000002 as a base number of iterations for the estimation of π, 
+which can easily be changed.  
+You may also find a .png file of a preview of what the code will output.
+
+Thank you for viewing my code, and if you have any questions please contact me by any means possible. 
 
 
 
@@ -17,4 +28,5 @@ a range of results of occurring'[^1].
 
 
 
-[^1]: Definition sourced from: https://www.ibm.com/topics/monte-carlo-simulation
+[^1]: Definition sourced from:  
+What is Monte Carlo Simulation?. IBM. (n.d.). https://www.ibm.com/topics/monte-carlo-simulation, Accessed 12/08/2023 
